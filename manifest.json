@@ -1,0 +1,9 @@
+{
+  "name": "Uai",
+  "start_url": "/",
+  "icons": [],
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
